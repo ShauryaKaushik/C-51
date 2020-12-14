@@ -1,0 +1,66 @@
+h1{
+    text-align: center;
+    margin-left: 630px;
+    color: #98fb98;
+    background-color:black;
+    display: flex;
+    justify-content: space-between;
+   }
+
+
+   .header{
+    background-color: coral;  
+    display: flex;
+    justify-content: space-between;
+  }
+
+  body{
+    margin: 0px;
+    background: black;
+    color: #F5F5F5
+}
+
+.Chameleon{
+  padding: 30px;
+  margin: 25px;
+}
+
+.chameleon-text{
+  display: flex;
+  justify-content: space-between;
+  color: #008000
+
+}
+
+.Pigeons{
+  padding: 30px;
+  margin: 25px;
+}
+
+.pigeon-text{
+    display: flex;
+    justify-content: space-between;
+    color: #0000FF
+}
+
+.Cicada{
+  padding: 30px;
+  margin: 25px;
+}
+
+.cicada-text{
+  display: flex;
+  justify-content: space-between;
+  color: #FFE4C4
+}
+
+.Camel{
+  padding: 30px;
+  margin: 25px;
+}
+
+.camel-text{
+  display: flex;
+  justify-content: space-between;
+  color: #FFD700
+}
